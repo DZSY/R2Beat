@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">R2Beat</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_fight_game">FightGameActivity</string>
+</resources>
